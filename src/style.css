@@ -136,7 +136,7 @@ section{position:relative}
 .e-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:1.6rem}
 .e-card{background:var(--weiss);display:flex;flex-direction:column;text-decoration:none;color:var(--ink);transition:transform .2s}
 .e-card:hover{transform:translateY(-4px)}
-.e-bild{position:relative;aspect-ratio:3/2;background:var(--grau);overflow:hidden}
+.e-bild{position:relative;aspect-ratio:1/1;background:var(--grau);overflow:hidden}
 .e-bild img{width:100%;height:100%!important;object-fit:cover}
 .e-datum{position:absolute;left:.9rem;bottom:.9rem;background:var(--rot);color:#fff;padding:.45rem .7rem;text-align:center;line-height:1;border-radius:4px}
 .e-datum b{display:block;font-family:var(--hand);font-weight:400;font-size:1.7rem}
