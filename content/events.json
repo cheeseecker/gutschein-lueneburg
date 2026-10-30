@@ -1,4 +1,245 @@
 {
-  "stand": "",
-  "events": []
+  "stand": "2026-10-30T12:20:50.741Z",
+  "events": [
+    {
+      "titel": "HALLOWEEN HORROR NIGHT in der LKH Arena",
+      "datum": "2026-10-31",
+      "uhrzeit": "20:00",
+      "ort": "LKH Arena",
+      "bild": "/assets/events/2026-10-31-halloween-horror-night-in-der-lkh-arena.jpeg",
+      "link": "https://www.lueneburgtickets.de/produkte/96321-tickets-halloween-horror-night-in-der-lkh-arena-lkh-arena-lueneburg-am-31-10-2026",
+      "startIso": "2026-10-31T20:00:00+01:00",
+      "endeIso": "2026-11-01T23:00:00+01:00"
+    },
+    {
+      "titel": "TOP FOR TEA",
+      "datum": "2026-10-31",
+      "uhrzeit": "20:00",
+      "ort": "Leuphana Libeskind Auditorium",
+      "bild": "/assets/events/2026-10-31-top-for-tea.jpeg",
+      "link": "https://www.lueneburgtickets.de/produkte/99616-tickets-top-for-tea-leuphana-libeskind-auditorium-lueneburg-am-31-10-2026",
+      "startIso": "2026-10-31T20:00:00+01:00",
+      "endeIso": "2026-10-31T23:00:00+01:00"
+    },
+    {
+      "titel": "Mario Barth",
+      "datum": "2026-11-06",
+      "uhrzeit": "20:00",
+      "ort": "LKH Arena",
+      "bild": "/assets/events/2026-11-06-mario-barth.jpeg",
+      "link": "https://www.lueneburgtickets.de/produkte/88773-tickets-mario-barth-lkh-arena-lueneburg-am-06-11-2026",
+      "startIso": "2026-11-06T20:00:00+01:00",
+      "endeIso": "2026-11-06T23:00:00+01:00"
+    },
+    {
+      "titel": "Ina Müller",
+      "datum": "2026-11-07",
+      "uhrzeit": "20:00",
+      "ort": "LKH Arena",
+      "bild": "/assets/events/2026-11-07-ina-mueller.jpeg",
+      "link": "https://www.lueneburgtickets.de/produkte/84418-tickets-ina-mueller-lkh-arena-lueneburg-am-07-11-2026",
+      "startIso": "2026-11-07T20:00:00+01:00",
+      "endeIso": "2026-11-07T23:00:00+01:00"
+    },
+    {
+      "titel": "Ina Müller",
+      "datum": "2026-11-08",
+      "uhrzeit": "20:00",
+      "ort": "LKH Arena",
+      "bild": "/assets/events/2026-11-08-ina-mueller.jpeg",
+      "link": "https://www.lueneburgtickets.de/produkte/86392-tickets-ina-mueller-lkh-arena-lueneburg-am-08-11-2026",
+      "startIso": "2026-11-08T20:00:00+01:00",
+      "endeIso": "2026-11-08T23:00:00+01:00"
+    },
+    {
+      "titel": "40UP PARTY - Das Original",
+      "datum": "2026-11-14",
+      "uhrzeit": "20:00",
+      "ort": "Ritterakademie",
+      "bild": "/assets/events/2026-11-14-40up-party-das-original.jpeg",
+      "link": "https://www.lueneburgtickets.de/produkte/96172-tickets-40up-party-das-original-ritterakademie-lueneburg-am-14-11-2026",
+      "startIso": "2026-11-14T20:00:00+01:00",
+      "endeIso": "2026-11-14T23:00:00+01:00"
+    },
+    {
+      "titel": "SVG Lüneburg : Helios GRIZZLYS Giesen - 26/27",
+      "datum": "2026-11-14",
+      "uhrzeit": "20:00",
+      "ort": "LKH Arena",
+      "bild": "/assets/events/2026-11-14-svg-lueneburg-helios-grizzlys-giesen-26-27.jpeg",
+      "link": "https://www.lueneburgtickets.de/produkte/94826-tickets-svg-lueneburg-helios-grizzlys-giesen-26-27-lkh-arena-lueneburg-am-14-11-2026",
+      "startIso": "2026-11-14T20:00:00+01:00",
+      "endeIso": "2026-11-14T23:00:00+01:00"
+    },
+    {
+      "titel": "Decades – 80er, 90er & 2000er Party!",
+      "datum": "2026-11-21",
+      "uhrzeit": "20:00",
+      "ort": "Ritterakademie",
+      "bild": "/assets/events/2026-11-21-decades-80er-90er-2000er-party.jpeg",
+      "link": "https://www.lueneburgtickets.de/produkte/96173-tickets-decades-80er-90er-2000er-party-ritterakademie-lueneburg-am-21-11-2026",
+      "startIso": "2026-11-21T20:00:00+01:00",
+      "endeIso": "2026-11-21T23:00:00+01:00"
+    },
+    {
+      "titel": "GAMECHANGER BY BASTIAN BIELENDORFER",
+      "datum": "2026-11-26",
+      "uhrzeit": "20:00",
+      "ort": "LKH Arena",
+      "bild": "/assets/events/2026-11-26-gamechanger-by-bastian-bielendorfer.jpeg",
+      "link": "https://www.lueneburgtickets.de/produkte/82930-tickets-gamechanger-by-bastian-bielendorfer-lkh-arena-lueneburg-am-26-11-2026",
+      "startIso": "2026-11-26T20:00:00+01:00",
+      "endeIso": "2026-11-26T23:00:00+01:00"
+    },
+    {
+      "titel": "BEST OF! - Eine Nacht. Alle Styles",
+      "datum": "2026-11-28",
+      "uhrzeit": "20:00",
+      "ort": "Ritterakademie",
+      "bild": "/assets/events/2026-11-28-best-of-eine-nacht-alle-styles.jpeg",
+      "link": "https://www.lueneburgtickets.de/produkte/101967-tickets-best-of-eine-nacht-alle-styles-ritterakademie-lueneburg-am-28-11-2026",
+      "startIso": "2026-11-28T20:00:00+01:00",
+      "endeIso": "2026-11-28T23:00:00+01:00"
+    },
+    {
+      "titel": "SVG Lüneburg : VfB Friedrichshafen - 26/27",
+      "datum": "2026-12-01",
+      "uhrzeit": "20:00",
+      "ort": "LKH Arena",
+      "bild": "/assets/events/2026-12-01-svg-lueneburg-vfb-friedrichshafen-26-27.jpeg",
+      "link": "https://www.lueneburgtickets.de/produkte/94827-tickets-svg-lueneburg-vfb-friedrichshafen-26-27-lkh-arena-lueneburg-am-01-12-2026",
+      "startIso": "2026-12-01T20:00:00+01:00",
+      "endeIso": "2026-12-01T23:00:00+01:00"
+    },
+    {
+      "titel": "BÜLENT CEYLAN - DIKTATÜRK",
+      "datum": "2026-12-05",
+      "uhrzeit": "20:00",
+      "ort": "LKH Arena",
+      "bild": "/assets/events/2026-12-05-buelent-ceylan-diktatuerk.jpeg",
+      "link": "https://www.lueneburgtickets.de/produkte/80879-tickets-buelent-ceylan-diktatuerk-lkh-arena-lueneburg-am-05-12-2026",
+      "startIso": "2026-12-05T20:00:00+01:00",
+      "endeIso": "2026-12-05T23:00:00+01:00"
+    },
+    {
+      "titel": "SVG Lüneburg : VK ČEZ KARLOVARSKO 26/27 // Champions League",
+      "datum": "2026-12-09",
+      "uhrzeit": "20:00",
+      "ort": "LKH Arena",
+      "bild": "/assets/events/2026-12-09-svg-lueneburg-vk-ez-karlovarsko-26-27-champions-le.jpeg",
+      "link": "https://www.lueneburgtickets.de/produkte/101683-tickets-svg-lueneburg-vk-cez-karlovarsko-26-27-champions-league-lkh-arena-lueneburg-am-09-12-2026",
+      "startIso": "2026-12-09T20:00:00+01:00",
+      "endeIso": "2026-12-09T23:00:00+01:00"
+    },
+    {
+      "titel": "SVG Lüneburg : Barock Volleys MTV Ludwigsburg - 26/27",
+      "datum": "2026-12-13",
+      "uhrzeit": "20:00",
+      "ort": "LKH Arena",
+      "bild": "/assets/events/2026-12-13-svg-lueneburg-barock-volleys-mtv-ludwigsburg-26-27.jpeg",
+      "link": "https://www.lueneburgtickets.de/produkte/94828-tickets-svg-lueneburg-barock-volleys-mtv-ludwigsburg-26-27-lkh-arena-lueneburg-am-13-12-2026",
+      "startIso": "2026-12-13T20:00:00+01:00",
+      "endeIso": "2026-12-13T23:00:00+01:00"
+    },
+    {
+      "titel": "40UP PARTY - Das Original",
+      "datum": "2026-12-19",
+      "uhrzeit": "20:00",
+      "ort": "Ritterakademie",
+      "bild": "/assets/events/2026-12-19-40up-party-das-original.jpeg",
+      "link": "https://www.lueneburgtickets.de/produkte/96176-tickets-40up-party-das-original-ritterakademie-lueneburg-am-19-12-2026",
+      "startIso": "2026-12-19T20:00:00+01:00",
+      "endeIso": "2026-12-19T23:00:00+01:00"
+    },
+    {
+      "titel": "A CINEMATIC CHRISTMAS",
+      "datum": "2026-12-19",
+      "uhrzeit": "20:00",
+      "ort": "Leuphana Libeskind Auditorium",
+      "bild": "/assets/events/2026-12-19-a-cinematic-christmas.jpeg",
+      "link": "https://www.lueneburgtickets.de/produkte/99219-tickets-a-cinematic-christmas-leuphana-libeskind-auditorium-lueneburg-am-19-12-2026",
+      "startIso": "2026-12-19T20:00:00+01:00",
+      "endeIso": "2026-12-19T23:00:00+01:00"
+    },
+    {
+      "titel": "CINDY AUS MARZAHN",
+      "datum": "2026-12-19",
+      "uhrzeit": "20:00",
+      "ort": "LKH Arena",
+      "bild": "/assets/events/2026-12-19-cindy-aus-marzahn.jpeg",
+      "link": "https://www.lueneburgtickets.de/produkte/99334-tickets-cindy-aus-marzahn-lkh-arena-lueneburg-am-19-12-2026",
+      "startIso": "2026-12-19T20:00:00+01:00",
+      "endeIso": "2026-12-19T23:00:00+01:00"
+    },
+    {
+      "titel": "SVG Lüneburg : BERLIN RECYCLING Volleys - 26/27",
+      "datum": "2026-12-23",
+      "uhrzeit": "20:00",
+      "ort": "LKH Arena",
+      "bild": "/assets/events/2026-12-23-svg-lueneburg-berlin-recycling-volleys-26-27.jpeg",
+      "link": "https://www.lueneburgtickets.de/produkte/94829-tickets-svg-lueneburg-berlin-recycling-volleys-26-27-lkh-arena-lueneburg-am-23-12-2026",
+      "startIso": "2026-12-23T20:00:00+01:00",
+      "endeIso": "2026-12-23T23:00:00+01:00"
+    },
+    {
+      "titel": "Holy Night",
+      "datum": "2026-12-24",
+      "uhrzeit": "20:00",
+      "ort": "Ritterakademie",
+      "bild": "/assets/events/2026-12-24-holy-night.jpeg",
+      "link": "https://www.lueneburgtickets.de/produkte/101110-tickets-holy-night-ritterakademie-lueneburg-am-24-12-2026",
+      "startIso": "2026-12-24T20:00:00+01:00",
+      "endeIso": "2026-12-24T23:00:00+01:00"
+    },
+    {
+      "titel": "SANTA BABY! - Lüneburgs Weihnachtsparty",
+      "datum": "2026-12-25",
+      "uhrzeit": "20:00",
+      "ort": "Ritterakademie",
+      "bild": "/assets/events/2026-12-25-santa-baby-lueneburgs-weihnachtsparty.jpeg",
+      "link": "https://www.lueneburgtickets.de/produkte/100660-tickets-santa-baby-lueneburgs-weihnachtsparty-ritterakademie-lueneburg-am-25-12-2026",
+      "startIso": "2026-12-25T20:00:00+01:00",
+      "endeIso": "2026-12-25T23:00:00+01:00"
+    },
+    {
+      "titel": "Decades – 80er, 90er & 2000er Party!",
+      "datum": "2026-12-26",
+      "uhrzeit": "20:00",
+      "ort": "Ritterakademie",
+      "bild": "",
+      "link": "https://www.lueneburgtickets.de/produkte/100661-tickets-decades-80er-90er-2000er-party-ritterakademie-lueneburg-am-26-12-2026",
+      "startIso": "2026-12-26T20:00:00+01:00",
+      "endeIso": "2026-12-26T23:00:00+01:00"
+    },
+    {
+      "titel": "SVG Lüneburg : WWK Volleys München - 26/27",
+      "datum": "2026-12-28",
+      "uhrzeit": "20:00",
+      "ort": "LKH Arena",
+      "bild": "/assets/events/2026-12-28-svg-lueneburg-wwk-volleys-muenchen-26-27.jpeg",
+      "link": "https://www.lueneburgtickets.de/produkte/94830-tickets-svg-lueneburg-wwk-volleys-muenchen-26-27-lkh-arena-lueneburg-am-28-12-2026",
+      "startIso": "2026-12-28T20:00:00+01:00",
+      "endeIso": "2026-12-28T23:00:00+01:00"
+    },
+    {
+      "titel": "SVG Lüneburg :  VCO Berlin - 26/27",
+      "datum": "2026-12-29",
+      "uhrzeit": "20:00",
+      "ort": "LKH Arena",
+      "bild": "/assets/events/2026-12-29-svg-lueneburg-vco-berlin-26-27.jpeg",
+      "link": "https://www.lueneburgtickets.de/produkte/94831-tickets-svg-lueneburg-vco-berlin-26-27-lkh-arena-lueneburg-am-29-12-2026",
+      "startIso": "2026-12-29T20:00:00+01:00",
+      "endeIso": "2026-12-29T23:00:00+01:00"
+    },
+    {
+      "titel": "Silvester in der Ritterakademie",
+      "datum": "2026-12-31",
+      "uhrzeit": "20:00",
+      "ort": "Ritterakademie",
+      "bild": "/assets/events/2026-12-31-silvester-in-der-ritterakademie.jpeg",
+      "link": "https://www.lueneburgtickets.de/produkte/91930-tickets-silvester-in-der-ritterakademie-ritterakademie-lueneburg-am-31-12-2026",
+      "startIso": "2026-12-31T20:00:00+01:00",
+      "endeIso": "2026-12-31T23:00:00+01:00"
+    }
+  ]
 }
