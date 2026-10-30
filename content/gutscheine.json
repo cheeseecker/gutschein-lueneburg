@@ -1,0 +1,84 @@
+{
+  "gutscheine": [
+    {
+      "titel": "Frohe Weihnachten",
+      "slug": "weihnachten",
+      "bild": "/assets/gutscheine/weihnachten.jpg",
+      "alt": "Lüneburg TICKETS Gutschein im Weihnachtsdesign mit Tannenbaum und Geschenken",
+      "preis": "20 € – 100 €",
+      "text": "Das Geschenk, das nicht unterm Baum verstaubt: Konzert, Comedy oder Sport – die Beschenkten suchen sich ihr Event selbst aus.",
+      "badge": "Saison-Liebling",
+      "link": "https://www.lueneburgtickets.de/produkte/79759-gutschein-x-mas"
+    },
+    {
+      "titel": "Für alle Fälle",
+      "slug": "fuer-alle-faelle",
+      "bild": "/assets/gutscheine/fuer-alle-faelle.jpg",
+      "alt": "Lüneburg TICKETS Gutschein Für alle Fälle mit bunten Formen",
+      "preis": "20 € – 100 €",
+      "text": "Passt immer: zum Geburtstag, als Mitbringsel oder einfach so. Einlösbar für alle Veranstaltungen im Shop.",
+      "badge": "",
+      "link": "https://www.lueneburgtickets.de/produkte/60384-gutschein-fuer-alle-faelle"
+    },
+    {
+      "titel": "Für dich",
+      "slug": "fuer-dich",
+      "bild": "/assets/gutscheine/fuer-dich.jpg",
+      "alt": "Lüneburg TICKETS Gutschein Für dich mit pinker Blume auf rotem Grund",
+      "preis": "verschiedene Beträge",
+      "text": "Für den Lieblingsmenschen: ein kleines Dankeschön mit großer Wirkung – Konzert, Comedy oder Sport nach Wahl.",
+      "badge": "",
+      "link": "https://www.lueneburgtickets.de/events/1915-gutscheine"
+    },
+    {
+      "titel": "Danke",
+      "slug": "danke",
+      "bild": "/assets/gutscheine/danke.jpg",
+      "alt": "Lüneburg TICKETS Gutschein Thank you mit bunten Formen",
+      "preis": "20 € – 100 €",
+      "text": "Danke sagen mit einem Abend, an den man sich erinnert – für Kolleg:innen, Nachbarn oder die besten Freund:innen.",
+      "badge": "",
+      "link": "https://www.lueneburgtickets.de/produkte/79758-gutschein-danke"
+    },
+    {
+      "titel": "SVG Lüneburg",
+      "slug": "svg-lueneburg",
+      "bild": "/assets/gutscheine/svg-lueneburg.jpg",
+      "alt": "SVG Lüneburg Gutschein mit Blick in die volle LKH Arena",
+      "preis": "15 € – 50 €",
+      "text": "Volleyball-Bundesliga live in der LKH Arena: der Gutschein für alle, die beim Heimspiel mitfiebern wollen.",
+      "badge": "Für Sportfans",
+      "link": "https://www.lueneburgtickets.de/produkte/79870-gutschein-svg-lueneburg"
+    },
+    {
+      "titel": "Herzlichen Glückwunsch",
+      "slug": "glueckwunsch",
+      "bild": "/assets/gutscheine/glueckwunsch.jpg",
+      "alt": "Lüneburg TICKETS Gutschein Herzlichen Glückwunsch mit High-Five und Sektgläsern",
+      "preis": "verschiedene Beträge",
+      "text": "Zum Geburtstag, zur Hochzeit oder zum bestandenen Abschluss – ein Grund zum Feiern findet sich immer.",
+      "badge": "",
+      "link": "https://www.lueneburgtickets.de/events/1915-gutscheine"
+    },
+    {
+      "titel": "Statt Blumen",
+      "slug": "statt-blumen",
+      "bild": "/assets/gutscheine/statt-blumen.jpg",
+      "alt": "Lüneburg TICKETS Gutschein Statt Blumen mit Blumenstrauß-Illustration",
+      "preis": "verschiedene Beträge",
+      "text": "Blumen welken, Erinnerungen bleiben. Verschenk lieber einen gemeinsamen Abend voller Musik oder Lachen.",
+      "badge": "",
+      "link": "https://www.lueneburgtickets.de/events/1915-gutscheine"
+    },
+    {
+      "titel": "Frohe Ostern",
+      "slug": "ostern",
+      "bild": "/assets/gutscheine/ostern.jpg",
+      "alt": "Lüneburg TICKETS Gutschein Frohe Ostern mit Frühlingsblumen und Ostereiern",
+      "preis": "verschiedene Beträge",
+      "text": "Das Osternest mit Vorfreude füllen: Tickets für den Lüneburger Sommer verschenken.",
+      "badge": "",
+      "link": "https://www.lueneburgtickets.de/events/1915-gutscheine"
+    }
+  ]
+}

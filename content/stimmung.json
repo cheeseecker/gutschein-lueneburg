@@ -1,0 +1,20 @@
+{
+  "bilder": [
+    {
+      "bild": "/assets/stimmung/kultursommer-buehne.jpg",
+      "alt": "Konzert beim Lüneburger Kultursommer: Bühne mit Videoleinwänden, rote Ballons fliegen über das Publikum"
+    },
+    {
+      "bild": "/assets/stimmung/kultursommer-herzen.jpg",
+      "alt": "Publikum formt beim Konzert Herzen mit den Händen"
+    },
+    {
+      "bild": "/assets/stimmung/kultursommer-anstossen.jpg",
+      "alt": "Gäste stoßen in der Sonne mit Spritz und Bier an"
+    },
+    {
+      "bild": "/assets/stimmung/kultursommer-abendsonne.jpg",
+      "alt": "Kultursommer-Gelände in der Abendsonne mit Zelten und vielen Gästen"
+    }
+  ]
+}

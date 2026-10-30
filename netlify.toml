@@ -1,0 +1,36 @@
+[build]
+  command = "node scripts/build.mjs"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# Zweitdomain lüneburg-gutschein.de und Variante ohne www auf die Hauptdomain leiten
+[[redirects]]
+  from = "https://xn--lneburg-gutschein-22b.de/*"
+  to = "https://www.xn--gutschein-lneburg-d3b.de/:splat"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://www.xn--lneburg-gutschein-22b.de/*"
+  to = "https://www.xn--gutschein-lneburg-d3b.de/:splat"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://xn--gutschein-lneburg-d3b.de/*"
+  to = "https://www.xn--gutschein-lneburg-d3b.de/:splat"
+  status = 301
+  force = true
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "camera=(), microphone=(), geolocation=(), interest-cohort=()"
+    X-Frame-Options = "SAMEORIGIN"
+
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"

@@ -1,0 +1,54 @@
+# Login über DecapBridge – die mit AUSFUELLEN markierten Werte aus dem DecapBridge-Dashboard übernehmen
+backend:
+  name: git-gateway
+  repo: cheeeseecker/gutschein-lueneburg
+  branch: main
+  identity_url: https://auth.decapbridge.com/sites/AUSFUELLEN
+  gateway_url: https://gateway.decapbridge.com
+  commit_messages:
+    create: Create {{collection}} "{{slug}}" - {{author-name}} via DecapBridge
+    update: Update {{collection}} "{{slug}}" - {{author-name}} via DecapBridge
+    delete: Delete {{collection}} "{{slug}}" - {{author-name}} via DecapBridge
+    uploadMedia: Upload "{{path}}" - {{author-name}} via DecapBridge
+    deleteMedia: Delete "{{path}}" - {{author-name}} via DecapBridge
+
+locale: de
+site_url: https://www.xn--gutschein-lneburg-d3b.de
+
+media_folder: "src/assets/gutscheine"
+public_folder: "/assets/gutscheine"
+
+collections:
+  - name: "inhalte"
+    label: "Inhalte"
+    files:
+      - name: "gutscheine"
+        label: "Gutscheine"
+        file: "content/gutscheine.json"
+        fields:
+          - name: "gutscheine"
+            label: "Gutscheine (Reihenfolge per Drag & Drop)"
+            label_singular: "Gutschein"
+            widget: "list"
+            summary: "{{fields.titel}}"
+            fields:
+              - { name: "titel", label: "Titel", widget: "string" }
+              - { name: "slug", label: "Kurzname für Tracking (z. B. weihnachten)", widget: "string" }
+              - { name: "bild", label: "Motiv (quadratisch, 600×600 px)", widget: "image" }
+              - { name: "alt", label: "Bildbeschreibung (Alt-Text)", widget: "string" }
+              - { name: "preis", label: "Preis (z. B. 20 € – 100 €)", widget: "string" }
+              - { name: "text", label: "Kurzbeschreibung", widget: "text" }
+              - { name: "badge", label: "Badge (optional, z. B. Saison-Liebling)", widget: "string", required: false }
+              - { name: "link", label: "Link zum Produkt im Ticketshop (ohne UTM – wird automatisch ergänzt)", widget: "string" }
+      - name: "stimmung"
+        label: "Stimmungsbilder (optional, max. 4)"
+        file: "content/stimmung.json"
+        fields:
+          - name: "bilder"
+            label: "Bilder"
+            label_singular: "Bild"
+            widget: "list"
+            max: 4
+            fields:
+              - { name: "bild", label: "Foto (Hochformat 4:5)", widget: "image", media_folder: "/src/assets/stimmung", public_folder: "/assets/stimmung" }
+              - { name: "alt", label: "Bildbeschreibung (Alt-Text)", widget: "string" }
