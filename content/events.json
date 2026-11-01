@@ -1,26 +1,6 @@
 {
-  "stand": "2026-10-31T10:25:05.136Z",
+  "stand": "2026-11-01T11:18:38.131Z",
   "events": [
-    {
-      "titel": "HALLOWEEN HORROR NIGHT in der LKH Arena",
-      "datum": "2026-10-31",
-      "uhrzeit": "20:00",
-      "ort": "LKH Arena",
-      "bild": "/assets/events/2026-10-31-halloween-horror-night-in-der-lkh-arena.jpeg",
-      "link": "https://www.lueneburgtickets.de/produkte/96321-tickets-halloween-horror-night-in-der-lkh-arena-lkh-arena-lueneburg-am-31-10-2026",
-      "startIso": "2026-10-31T20:00:00+01:00",
-      "endeIso": "2026-11-01T23:00:00+01:00"
-    },
-    {
-      "titel": "TOP FOR TEA",
-      "datum": "2026-10-31",
-      "uhrzeit": "20:00",
-      "ort": "Leuphana Libeskind Auditorium",
-      "bild": "/assets/events/2026-10-31-top-for-tea.jpeg",
-      "link": "https://www.lueneburgtickets.de/produkte/99616-tickets-top-for-tea-leuphana-libeskind-auditorium-lueneburg-am-31-10-2026",
-      "startIso": "2026-10-31T20:00:00+01:00",
-      "endeIso": "2026-10-31T23:00:00+01:00"
-    },
     {
       "titel": "Mario Barth",
       "datum": "2026-11-06",
@@ -240,6 +220,26 @@
       "link": "https://www.lueneburgtickets.de/produkte/91930-tickets-silvester-in-der-ritterakademie-ritterakademie-lueneburg-am-31-12-2026",
       "startIso": "2026-12-31T20:00:00+01:00",
       "endeIso": "2026-12-31T23:00:00+01:00"
+    },
+    {
+      "titel": "SVG Lüneburg Dauerkarte 26/27",
+      "datum": "2026-12-31",
+      "uhrzeit": "20:00",
+      "ort": "LKH Arena",
+      "bild": "/assets/events/2026-12-31-svg-lueneburg-dauerkarte-26-27.png",
+      "link": "https://www.lueneburgtickets.de/produkte/94820-tickets-svg-lueneburg-dauerkarte-26-27-lkh-arena",
+      "startIso": "2026-12-31T20:00:00+01:00",
+      "endeIso": "2027-01-02T23:00:00+01:00"
+    },
+    {
+      "titel": "Drei Haselnüsse für Aschenbrödel - Das Musical",
+      "datum": "2027-01-02",
+      "uhrzeit": "20:00",
+      "ort": "LKH Arena",
+      "bild": "/assets/events/2027-01-02-drei-haselnuesse-fuer-aschenbroedel-das-musical.jpeg",
+      "link": "https://www.lueneburgtickets.de/produkte/95365-tickets-drei-haselnuesse-fuer-aschenbroedel-das-musical-lkh-arena-lueneburg-am-02-01-2027",
+      "startIso": "2027-01-02T20:00:00+01:00",
+      "endeIso": "2027-01-02T23:00:00+01:00"
     }
   ]
 }
