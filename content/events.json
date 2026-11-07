@@ -1,16 +1,6 @@
 {
-  "stand": "2026-11-06T12:09:21.711Z",
+  "stand": "2026-11-07T11:06:29.226Z",
   "events": [
-    {
-      "titel": "Mario Barth",
-      "datum": "2026-11-06",
-      "uhrzeit": "20:00",
-      "ort": "LKH Arena",
-      "bild": "/assets/events/2026-11-06-mario-barth.jpeg",
-      "link": "https://www.lueneburgtickets.de/produkte/88773-tickets-mario-barth-lkh-arena-lueneburg-am-06-11-2026",
-      "startIso": "2026-11-06T20:00:00+01:00",
-      "endeIso": "2026-11-06T23:00:00+01:00"
-    },
     {
       "titel": "Ina Müller",
       "datum": "2026-11-07",
@@ -240,6 +230,16 @@
       "link": "https://www.lueneburgtickets.de/produkte/95365-tickets-drei-haselnuesse-fuer-aschenbroedel-das-musical-lkh-arena-lueneburg-am-02-01-2027",
       "startIso": "2027-01-02T20:00:00+01:00",
       "endeIso": "2027-01-02T23:00:00+01:00"
+    },
+    {
+      "titel": "40UP PARTY - Das Original",
+      "datum": "2027-01-09",
+      "uhrzeit": "20:00",
+      "ort": "Ritterakademie",
+      "bild": "/assets/events/2027-01-09-40up-party-das-original.jpeg",
+      "link": "https://www.lueneburgtickets.de/produkte/100783-tickets-40up-party-das-original-ritterakademie-lueneburg-am-09-01-2027",
+      "startIso": "2027-01-09T20:00:00+01:00",
+      "endeIso": "2027-01-09T23:00:00+01:00"
     }
   ]
 }
