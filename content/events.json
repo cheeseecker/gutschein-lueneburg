@@ -1,16 +1,6 @@
 {
-  "stand": "2026-11-07T11:06:29.226Z",
+  "stand": "2026-11-08T11:19:28.528Z",
   "events": [
-    {
-      "titel": "Ina Müller",
-      "datum": "2026-11-07",
-      "uhrzeit": "20:00",
-      "ort": "LKH Arena",
-      "bild": "/assets/events/2026-11-07-ina-mueller.jpeg",
-      "link": "https://www.lueneburgtickets.de/produkte/84418-tickets-ina-mueller-lkh-arena-lueneburg-am-07-11-2026",
-      "startIso": "2026-11-07T20:00:00+01:00",
-      "endeIso": "2026-11-07T23:00:00+01:00"
-    },
     {
       "titel": "Ina Müller",
       "datum": "2026-11-08",
@@ -240,6 +230,16 @@
       "link": "https://www.lueneburgtickets.de/produkte/100783-tickets-40up-party-das-original-ritterakademie-lueneburg-am-09-01-2027",
       "startIso": "2027-01-09T20:00:00+01:00",
       "endeIso": "2027-01-09T23:00:00+01:00"
+    },
+    {
+      "titel": "Lisa Eckhart",
+      "datum": "2027-01-16",
+      "uhrzeit": "20:00",
+      "ort": "LKH Arena",
+      "bild": "/assets/events/2027-01-16-lisa-eckhart.jpeg",
+      "link": "https://www.lueneburgtickets.de/produkte/89869-tickets-lisa-eckhart-lkh-arena-lueneburg-am-16-01-2027",
+      "startIso": "2027-01-16T20:00:00+01:00",
+      "endeIso": "2027-01-16T23:00:00+01:00"
     }
   ]
 }
