@@ -1,16 +1,6 @@
 {
-  "stand": "2026-11-08T11:19:28.528Z",
+  "stand": "2026-11-09T12:55:24.481Z",
   "events": [
-    {
-      "titel": "Ina Müller",
-      "datum": "2026-11-08",
-      "uhrzeit": "20:00",
-      "ort": "LKH Arena",
-      "bild": "/assets/events/2026-11-08-ina-mueller.jpeg",
-      "link": "https://www.lueneburgtickets.de/produkte/86392-tickets-ina-mueller-lkh-arena-lueneburg-am-08-11-2026",
-      "startIso": "2026-11-08T20:00:00+01:00",
-      "endeIso": "2026-11-08T23:00:00+01:00"
-    },
     {
       "titel": "40UP PARTY - Das Original",
       "datum": "2026-11-14",
@@ -238,6 +228,16 @@
       "ort": "LKH Arena",
       "bild": "/assets/events/2027-01-16-lisa-eckhart.jpeg",
       "link": "https://www.lueneburgtickets.de/produkte/89869-tickets-lisa-eckhart-lkh-arena-lueneburg-am-16-01-2027",
+      "startIso": "2027-01-16T20:00:00+01:00",
+      "endeIso": "2027-01-16T23:00:00+01:00"
+    },
+    {
+      "titel": "Decades – 80er, 90er & 2000er Party!",
+      "datum": "2027-01-16",
+      "uhrzeit": "20:00",
+      "ort": "Ritterakademie",
+      "bild": "/assets/events/2027-01-16-decades-80er-90er-2000er-party.jpeg",
+      "link": "https://www.lueneburgtickets.de/produkte/100876-tickets-decades-80er-90er-2000er-party-ritterakademie-lueneburg-am-16-01-2027",
       "startIso": "2027-01-16T20:00:00+01:00",
       "endeIso": "2027-01-16T23:00:00+01:00"
     }
