@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-11T11:54:23.216Z",
+  "stand": "2026-11-12T12:46:22.200Z",
   "events": [
     {
       "titel": "40UP PARTY - Das Original",
@@ -68,6 +68,16 @@
       "ort": "LKH Arena",
       "bild": "/assets/events/2026-12-05-buelent-ceylan-diktatuerk.jpeg",
       "link": "https://www.lueneburgtickets.de/produkte/80879-tickets-buelent-ceylan-diktatuerk-lkh-arena-lueneburg-am-05-12-2026",
+      "startIso": "2026-12-05T20:00:00+01:00",
+      "endeIso": "2026-12-05T23:00:00+01:00"
+    },
+    {
+      "titel": "Hits Don’t Lie – 2000er & 2010er",
+      "datum": "2026-12-05",
+      "uhrzeit": "20:00",
+      "ort": "Ritterakademie",
+      "bild": "/assets/events/2026-12-05-hits-don-t-lie-2000er-2010er.jpeg",
+      "link": "https://www.lueneburgtickets.de/produkte/103278-tickets-hits-don-t-lie-2000er-2010er-ritterakademie-lueneburg-am-05-12-2026",
       "startIso": "2026-12-05T20:00:00+01:00",
       "endeIso": "2026-12-05T23:00:00+01:00"
     },
@@ -228,16 +238,6 @@
       "ort": "LKH Arena",
       "bild": "/assets/events/2027-01-16-lisa-eckhart.jpeg",
       "link": "https://www.lueneburgtickets.de/produkte/89869-tickets-lisa-eckhart-lkh-arena-lueneburg-am-16-01-2027",
-      "startIso": "2027-01-16T20:00:00+01:00",
-      "endeIso": "2027-01-16T23:00:00+01:00"
-    },
-    {
-      "titel": "Decades – 80er, 90er & 2000er Party!",
-      "datum": "2027-01-16",
-      "uhrzeit": "20:00",
-      "ort": "Ritterakademie",
-      "bild": "/assets/events/2027-01-16-decades-80er-90er-2000er-party.jpeg",
-      "link": "https://www.lueneburgtickets.de/produkte/100876-tickets-decades-80er-90er-2000er-party-ritterakademie-lueneburg-am-16-01-2027",
       "startIso": "2027-01-16T20:00:00+01:00",
       "endeIso": "2027-01-16T23:00:00+01:00"
     }
