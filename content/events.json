@@ -1,26 +1,6 @@
 {
-  "stand": "2026-11-14T11:31:13.813Z",
+  "stand": "2026-11-15T11:58:45.139Z",
   "events": [
-    {
-      "titel": "40UP PARTY - Das Original",
-      "datum": "2026-11-14",
-      "uhrzeit": "20:00",
-      "ort": "Ritterakademie",
-      "bild": "/assets/events/2026-11-14-40up-party-das-original.jpeg",
-      "link": "https://www.lueneburgtickets.de/produkte/96172-tickets-40up-party-das-original-ritterakademie-lueneburg-am-14-11-2026",
-      "startIso": "2026-11-14T20:00:00+01:00",
-      "endeIso": "2026-11-14T23:00:00+01:00"
-    },
-    {
-      "titel": "SVG Lüneburg : Helios GRIZZLYS Giesen - 26/27",
-      "datum": "2026-11-14",
-      "uhrzeit": "20:00",
-      "ort": "LKH Arena",
-      "bild": "/assets/events/2026-11-14-svg-lueneburg-helios-grizzlys-giesen-26-27.jpeg",
-      "link": "https://www.lueneburgtickets.de/produkte/94826-tickets-svg-lueneburg-helios-grizzlys-giesen-26-27-lkh-arena-lueneburg-am-14-11-2026",
-      "startIso": "2026-11-14T20:00:00+01:00",
-      "endeIso": "2026-11-14T23:00:00+01:00"
-    },
     {
       "titel": "Decades – 80er, 90er & 2000er Party!",
       "datum": "2026-11-21",
@@ -222,6 +202,16 @@
       "endeIso": "2027-01-02T23:00:00+01:00"
     },
     {
+      "titel": "SVG Lüneburg : BADEN VOLLEYS SSC Karlsruhe - 26/27",
+      "datum": "2027-01-03",
+      "uhrzeit": "20:00",
+      "ort": "LKH Arena",
+      "bild": "/assets/events/2027-01-03-svg-lueneburg-baden-volleys-ssc-karlsruhe-26-27.jpeg",
+      "link": "https://www.lueneburgtickets.de/produkte/94833-tickets-svg-lueneburg-baden-volleys-ssc-karlsruhe-26-27-lkh-arena-lueneburg-am-03-01-2027",
+      "startIso": "2027-01-03T20:00:00+01:00",
+      "endeIso": "2027-01-03T23:00:00+01:00"
+    },
+    {
       "titel": "40UP PARTY - Das Original",
       "datum": "2027-01-09",
       "uhrzeit": "20:00",
@@ -230,6 +220,16 @@
       "link": "https://www.lueneburgtickets.de/produkte/100783-tickets-40up-party-das-original-ritterakademie-lueneburg-am-09-01-2027",
       "startIso": "2027-01-09T20:00:00+01:00",
       "endeIso": "2027-01-09T23:00:00+01:00"
+    },
+    {
+      "titel": "SVG Lüneburg : Energiequelle Netzhoppers KW 26/27",
+      "datum": "2027-01-13",
+      "uhrzeit": "20:00",
+      "ort": "LKH Arena",
+      "bild": "/assets/events/2027-01-13-svg-lueneburg-energiequelle-netzhoppers-kw-26-27.jpeg",
+      "link": "https://www.lueneburgtickets.de/produkte/94834-tickets-svg-lueneburg-energiequelle-netzhoppers-kw-26-27-lkh-arena-lueneburg-am-13-01-2027",
+      "startIso": "2027-01-13T20:00:00+01:00",
+      "endeIso": "2027-01-13T23:00:00+01:00"
     },
     {
       "titel": "Lisa Eckhart",
