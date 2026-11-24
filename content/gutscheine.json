@@ -3,32 +3,62 @@
     {
       "titel": "Frohe Weihnachten",
       "slug": "weihnachten",
-      "bild": "/assets/gutscheine/weihnachten.jpg",
-      "alt": "Lüneburg TICKETS Gutschein im Weihnachtsdesign mit Tannenbaum und Geschenken",
+      "bild": "/assets/gutscheine/weihnachten-2026.jpg",
+      "alt": "Lüneburg TICKETS Gutschein Weihnachten im neuen Design 2026",
       "preis": "20 € – 100 €",
       "text": "Das Geschenk, das nicht unterm Baum verstaubt: Konzert, Comedy oder Sport – die Beschenkten suchen sich ihr Event selbst aus.",
+      "badge": "Neu",
+      "link": "https://www.lueneburgtickets.de/produkte/79869-gutschein-weihnachten"
+    },
+    {
+      "titel": "X-Mas",
+      "slug": "x-mas",
+      "bild": "/assets/gutscheine/weihnachten.jpg",
+      "alt": "Lüneburg TICKETS Gutschein X-Mas im Weihnachtsdesign mit Tannenbaum und Geschenken",
+      "preis": "20 € – 100 €",
+      "text": "Last-Minute und trotzdem persönlich: Der Gutschein kommt sofort per E-Mail und passt in jeden Adventskalender.",
       "badge": "Saison-Liebling",
       "link": "https://www.lueneburgtickets.de/produkte/79759-gutschein-x-mas"
     },
     {
-      "titel": "Für alle Fälle",
-      "slug": "fuer-alle-faelle",
-      "bild": "/assets/gutscheine/fuer-alle-faelle.jpg",
-      "alt": "Lüneburg TICKETS Gutschein Für alle Fälle mit bunten Formen",
+      "titel": "Happy Birthday",
+      "slug": "happy-birthday",
+      "bild": "/assets/gutscheine/happy-birthday.jpg",
+      "alt": "Lüneburg TICKETS Gutschein Happy Birthday",
       "preis": "20 € – 100 €",
-      "text": "Passt immer: zum Geburtstag, als Mitbringsel oder einfach so. Einlösbar für alle Veranstaltungen im Shop.",
+      "text": "Geburtstagsgeschenk mit Vorfreude-Garantie: Das Geburtstagskind sucht sich sein Lieblingsevent in Lüneburg selbst aus.",
       "badge": "",
-      "link": "https://www.lueneburgtickets.de/produkte/60384-gutschein-fuer-alle-faelle"
+      "link": "https://www.lueneburgtickets.de/produkte/79761-gutschein-happy-birthday"
+    },
+    {
+      "titel": "Herzlichen Glückwunsch",
+      "slug": "glueckwunsch",
+      "bild": "/assets/gutscheine/glueckwunsch.jpg",
+      "alt": "Lüneburg TICKETS Gutschein Herzlichen Glückwunsch mit High-Five und Sektgläsern",
+      "preis": "20 € – 100 €",
+      "text": "Zur Hochzeit, zum bestandenen Abschluss oder zum Jubiläum – ein Grund zum Feiern findet sich immer.",
+      "badge": "",
+      "link": "https://www.lueneburgtickets.de/produkte/102972-gutschein-herzlichen-glueckwunsch"
     },
     {
       "titel": "Für dich",
       "slug": "fuer-dich",
       "bild": "/assets/gutscheine/fuer-dich.jpg",
       "alt": "Lüneburg TICKETS Gutschein Für dich mit pinker Blume auf rotem Grund",
-      "preis": "verschiedene Beträge",
-      "text": "Für den Lieblingsmenschen: ein kleines Dankeschön mit großer Wirkung – Konzert, Comedy oder Sport nach Wahl.",
+      "preis": "20 € – 100 €",
+      "text": "Für den Lieblingsmenschen: ein kleines Geschenk mit großer Wirkung – Konzert, Comedy oder Sport nach Wahl.",
       "badge": "",
-      "link": "https://www.lueneburgtickets.de/events/1915-gutscheine"
+      "link": "https://www.lueneburgtickets.de/produkte/79868-gutschein-fuer-dich"
+    },
+    {
+      "titel": "Statt Blumen",
+      "slug": "statt-blumen",
+      "bild": "/assets/gutscheine/statt-blumen.jpg",
+      "alt": "Lüneburg TICKETS Gutschein Statt Blumen mit Blumenstrauß-Illustration",
+      "preis": "20 € – 100 €",
+      "text": "Blumen welken, Erinnerungen bleiben. Verschenk lieber einen gemeinsamen Abend voller Musik oder Lachen.",
+      "badge": "",
+      "link": "https://www.lueneburgtickets.de/produkte/102971-gutschein-statt-blumen"
     },
     {
       "titel": "Danke",
@@ -41,6 +71,16 @@
       "link": "https://www.lueneburgtickets.de/produkte/79758-gutschein-danke"
     },
     {
+      "titel": "Für alle Fälle",
+      "slug": "fuer-alle-faelle",
+      "bild": "/assets/gutscheine/fuer-alle-faelle.jpg",
+      "alt": "Lüneburg TICKETS Gutschein Für alle Fälle mit bunten Formen",
+      "preis": "20 € – 100 €",
+      "text": "Passt immer: als Mitbringsel, zum Einzug oder einfach so. Einlösbar für alle Veranstaltungen im Shop.",
+      "badge": "",
+      "link": "https://www.lueneburgtickets.de/produkte/60384-gutschein-fuer-alle-faelle"
+    },
+    {
       "titel": "SVG Lüneburg",
       "slug": "svg-lueneburg",
       "bild": "/assets/gutscheine/svg-lueneburg.jpg",
@@ -49,36 +89,6 @@
       "text": "Volleyball-Bundesliga live in der LKH Arena: der Gutschein für alle, die beim Heimspiel mitfiebern wollen.",
       "badge": "Für Sportfans",
       "link": "https://www.lueneburgtickets.de/produkte/79870-gutschein-svg-lueneburg"
-    },
-    {
-      "titel": "Herzlichen Glückwunsch",
-      "slug": "glueckwunsch",
-      "bild": "/assets/gutscheine/glueckwunsch.jpg",
-      "alt": "Lüneburg TICKETS Gutschein Herzlichen Glückwunsch mit High-Five und Sektgläsern",
-      "preis": "verschiedene Beträge",
-      "text": "Zum Geburtstag, zur Hochzeit oder zum bestandenen Abschluss – ein Grund zum Feiern findet sich immer.",
-      "badge": "",
-      "link": "https://www.lueneburgtickets.de/events/1915-gutscheine"
-    },
-    {
-      "titel": "Statt Blumen",
-      "slug": "statt-blumen",
-      "bild": "/assets/gutscheine/statt-blumen.jpg",
-      "alt": "Lüneburg TICKETS Gutschein Statt Blumen mit Blumenstrauß-Illustration",
-      "preis": "verschiedene Beträge",
-      "text": "Blumen welken, Erinnerungen bleiben. Verschenk lieber einen gemeinsamen Abend voller Musik oder Lachen.",
-      "badge": "",
-      "link": "https://www.lueneburgtickets.de/events/1915-gutscheine"
-    },
-    {
-      "titel": "Frohe Ostern",
-      "slug": "ostern",
-      "bild": "/assets/gutscheine/ostern.jpg",
-      "alt": "Lüneburg TICKETS Gutschein Frohe Ostern mit Frühlingsblumen und Ostereiern",
-      "preis": "verschiedene Beträge",
-      "text": "Das Osternest mit Vorfreude füllen: Tickets für den Lüneburger Sommer verschenken.",
-      "badge": "",
-      "link": "https://www.lueneburgtickets.de/events/1915-gutscheine"
     }
   ]
 }
