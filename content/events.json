@@ -1,16 +1,6 @@
 {
-  "stand": "2026-11-26T13:56:16.393Z",
+  "stand": "2026-11-27T13:55:09.159Z",
   "events": [
-    {
-      "titel": "GAMECHANGER BY BASTIAN BIELENDORFER",
-      "datum": "2026-11-26",
-      "uhrzeit": "20:00",
-      "ort": "LKH Arena",
-      "bild": "/assets/events/2026-11-26-gamechanger-by-bastian-bielendorfer.jpeg",
-      "link": "https://www.lueneburgtickets.de/produkte/82930-tickets-gamechanger-by-bastian-bielendorfer-lkh-arena-lueneburg-am-26-11-2026",
-      "startIso": "2026-11-26T20:00:00+01:00",
-      "endeIso": "2026-11-26T23:00:00+01:00"
-    },
     {
       "titel": "BEST OF! - Eine Nacht. Alle Styles",
       "datum": "2026-11-28",
@@ -80,6 +70,16 @@
       "link": "https://www.lueneburgtickets.de/produkte/94828-tickets-svg-lueneburg-barock-volleys-mtv-ludwigsburg-26-27-lkh-arena-lueneburg-am-13-12-2026",
       "startIso": "2026-12-13T20:00:00+01:00",
       "endeIso": "2026-12-13T23:00:00+01:00"
+    },
+    {
+      "titel": "SVG Lüneburg : BERLIN RECYCLING Volleys  - Halbfinale ZOI DVV-Pokal 26/27",
+      "datum": "2026-12-15",
+      "uhrzeit": "20:00",
+      "ort": "LKH Arena",
+      "bild": "/assets/events/2026-12-15-svg-lueneburg-berlin-recycling-volleys-halbfinale-.jpeg",
+      "link": "https://www.lueneburgtickets.de/produkte/94847-tickets-svg-lueneburg-berlin-recycling-volleys-halbfinale-zoi-dvv-pokal-26-27-lkh-arena-lueneburg-am-15-12-2026",
+      "startIso": "2026-12-15T20:00:00+01:00",
+      "endeIso": "2026-12-15T23:00:00+01:00"
     },
     {
       "titel": "40UP PARTY - Das Original",
